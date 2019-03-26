@@ -5,3 +5,6 @@
 ##### Eco
 ###### Eco
 primer repo de métodos
+* uno
+* dos
+* tres
